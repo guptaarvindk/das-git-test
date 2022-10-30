@@ -1,1 +1,1 @@
-package allow
+package main
